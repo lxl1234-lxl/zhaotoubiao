@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lxl1234-lxl.github.io/招标投标网站",
+  "homepage": "https://lxl1234-lxl.github.io/zhaotoubiao",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

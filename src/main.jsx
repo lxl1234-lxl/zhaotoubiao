@@ -6,7 +6,7 @@ import App from './App.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename={encodeURI('/招标投标网站')}>
+    <BrowserRouter basename="/zhaotoubiao">
       <App />
     </BrowserRouter>
   </StrictMode>,
