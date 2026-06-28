@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 .node
+test_screenshots/
+test_screenshots_new/
+test_all.py
 
 # Editor directories and files
 .vscode/*
